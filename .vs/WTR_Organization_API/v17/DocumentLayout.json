@@ -1,0 +1,821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WTR\\WTR_Organization_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\migrations\\20250812155117_initialsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\migrations\\20250812155117_initialsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154533_InitialSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTR_Organization_API\\Migrations\\20250812154533_InitialSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154355_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTR_Organization_API\\Migrations\\20250812154355_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154015_AddPaymentAndCompanyFeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTR_Organization_API\\Migrations\\20250812154015_AddPaymentAndCompanyFeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\billitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\billitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\companysettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\companysettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\paymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\paymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\data\\wtrorganiztiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\data\\wtrorganiztiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\paymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\paymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\companysettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\companysettingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\companysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\companysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\ipaymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\ipaymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\models\\billitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\models\\billitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\.gitignore",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\.gitignore",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\.gitignore",
+              "RelativeToolTip": "WTR_Organization_API\\.gitignore",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-15T15:26:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250812155117_InitialSnapshot.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812155117_InitialSnapshot.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Migrations\\20250812155117_InitialSnapshot.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812155117_InitialSnapshot.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Migrations\\20250812155117_InitialSnapshot.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:51:17.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250812154533_InitialSnapshot.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154533_InitialSnapshot.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Migrations\\20250812154533_InitialSnapshot.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154533_InitialSnapshot.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Migrations\\20250812154533_InitialSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:45:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250812154355_InitialCreate.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154355_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Migrations\\20250812154355_InitialCreate.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154355_InitialCreate.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Migrations\\20250812154355_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:43:55.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250812154015_AddPaymentAndCompanyFeatures.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154015_AddPaymentAndCompanyFeatures.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Migrations\\20250812154015_AddPaymentAndCompanyFeatures.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Migrations\\20250812154015_AddPaymentAndCompanyFeatures.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Migrations\\20250812154015_AddPaymentAndCompanyFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:40:15.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillItemDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\BillItemDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\BillItemDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\BillItemDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\BillItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:26:49.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\PaymentMethodController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\PaymentMethodController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\PaymentMethodController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAUwK8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:19:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanySettingsController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\CompanySettingsController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\CompanySettingsController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\CompanySettingsController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\CompanySettingsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwGoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:18:10.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentMethodDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\PaymentMethodDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\PaymentMethodDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\PaymentMethodDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\PaymentMethodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:23:18.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanySettingsDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\CompanySettingsDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\CompanySettingsDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\CompanySettingsDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\CompanySettingsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:22:55.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPaymentMethodService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IPaymentMethodService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\IPaymentMethodService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IPaymentMethodService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\IPaymentMethodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:15:46.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\ICompanyService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\ICompanyService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:15:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentMethodService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\PaymentMethodService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\PaymentMethodService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\PaymentMethodService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\PaymentMethodService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAD4vz0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:14:13.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\CompanyService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\CompanyService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:13:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\PaymentMethod.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:09:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CompanySettings.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\CompanySettings.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\CompanySettings.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\CompanySettings.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\CompanySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:09:00.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\AuthDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:29:56.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IStockService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\IStockService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IStockService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:27:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:27:36.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:27:12.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:27:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\AuthService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\AuthService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\AuthService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:26:30.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:25:50.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\IProductService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IProductService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:15:05.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BillItem.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\BillItem.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\BillItem.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\BillItem.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\BillItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:13:40.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\appsettings.Development.json",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\appsettings.Development.json",
+              "RelativeToolTip": "WTR_Organization_API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T16:11:43.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\ProductService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\ProductService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\ProductService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAA7wJIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:11:05.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\StockService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\StockService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\StockService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:10:50.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\CustomerService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:10:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:10:15.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAUwAoBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:10:02.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\StocksController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:09:48.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:09:15.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\BillsController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\BillsController.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAUwIwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:05:09.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:04:56.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\BillService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\BillService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\BillService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\BillService.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAqwA0BAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:04:45.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBillService.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IBillService.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Services\\IBillService.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Services\\IBillService.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Services\\IBillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:03:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\appsettings.json",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\appsettings.json",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\appsettings.json",
+              "RelativeToolTip": "WTR_Organization_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T16:03:30.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Program.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Program.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Program.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:03:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WTROrganiztionDbContext.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Data\\WTROrganiztionDbContext.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Data\\WTROrganiztionDbContext.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Data\\WTROrganiztionDbContext.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Data\\WTROrganiztionDbContext.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:02:44.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\BillDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\BillDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\BillDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\BillDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:02:27.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:02:15.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\StockDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\StockDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\StockDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\StockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:02:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\CustomerDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:01:51.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "WTR_Organization_API\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:01:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\Bill.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Bill.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:01:24.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\Product.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Product.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:01:02.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\Stock.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Stock.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:01:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\Customer.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Customer.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:00:49.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\Models\\Employee.cs",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\Models\\Employee.cs",
+              "RelativeToolTip": "WTR_Organization_API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:00:33.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
