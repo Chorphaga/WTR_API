@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\WTR\\WTR_Organization_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|solutionrelative:wtr_organization_api\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96FF1F9A-7BA0-4641-8E87-F13B42FB8EAA}|WTR_Organization_API\\WTR_Organization_API.csproj|d:\\wtr\\wtr_organization_api\\wtr_organization_api\\migrations\\20250812155117_initialsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -215,12 +215,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitinore",
-              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\.gitinore",
-              "RelativeDocumentMoniker": "WTR_Organization_API\\.gitinore",
-              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\.gitinore",
-              "RelativeToolTip": "WTR_Organization_API\\.gitinore",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\.gitignore",
+              "RelativeDocumentMoniker": "WTR_Organization_API\\.gitignore",
+              "ToolTip": "D:\\WTR\\WTR_Organization_API\\WTR_Organization_API\\.gitignore",
+              "RelativeToolTip": "WTR_Organization_API\\.gitignore",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-15T15:26:40.927Z",
               "EditorCaption": ""
@@ -235,8 +235,7 @@
               "RelativeToolTip": "WTR_Organization_API\\Migrations\\20250812155117_InitialSnapshot.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T15:51:17.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T15:51:17.631Z"
             },
             {
               "$type": "Document",
